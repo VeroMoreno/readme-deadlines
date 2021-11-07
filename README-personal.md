@@ -48,5 +48,28 @@
   </tr>
 </table>
 
+### Desglose del desarrollo semanal
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
+CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+```
+<!--END_SECTION:waka-->
+
+### Github Activity 
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/veroMoreno/styler/issues/2) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
+2. 🗣 Commented on [#2](https://github.com/veroMoreno/styler/issues/2) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
+3. ❗️ Closed issue [#2](https://github.com/veroMoreno/styler/issues/2) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
+4. ❌ Closed PR [#3](https://github.com/veroMoreno/styler/pull/3) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
+5. 🗣 Commented on [#3](https://github.com/veroMoreno/styler/issues/3) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
+<!--END_SECTION:activity-->
+
+
 ### 🎧 Music | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
