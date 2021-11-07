@@ -95,16 +95,16 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 <p>Instagram <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisarg-kapkar/">
+  <a href="https://www.linkedin.com/in/vmorenoflores/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/nnkkaapp">
+  <a href="https://twitter.com/veritechie">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://nisargkapkar.hashnode.dev/">
+  <a href="https://veritechie.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
-  <a href="mailto:nisargkapkar00@gmail.com">
+  <a href="mailto:veronica.moreno.wrok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
