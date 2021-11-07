@@ -1,6 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/26632876?v=4" alt="Logo of the project" align="right">
+<img src="https://avatars.githubusercontent.com/u/26632876?v=4" width="60%" alt="Logo of the project" align="right">
 
-# Nombre-del-proyecto &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+# 🌱 Nombre-del-proyecto &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > Información adicional o eslogan
 
 Una breve descripción de tu proyecto, ¿Para qué se va a utilizar?
@@ -17,16 +17,19 @@ Aquí cuenta un poco que sucede realmente cuando ejecuta el código anterior.
 
 ## Developing
 
-### Built With
+### Technologies / Built With
 Enumera las bibliotecas principales, los frameworks utilizados, incluidas las versiones (React, Angular, etc.)
 - ✨ Node.js
 - 💣 React
 - 💅🏾 Styled Components
 
-### Prerequisites
+### Dependencies / Prerequisites
 Qué se necesita para configurar el entorno de desarrollo. Por ejemplo, dependencias globales o cualquier otra herramienta. incluir enlaces de descarga.
 - nodemon
 - react-chartjs-2
+
+### Features
+Personalmente me gusta contar que características mas importantes tiene el proyecto para tenerlas a ojo cada vez que tenga que revisasr de nuevo el proyecto.
 
 ### Setting up Dev
 
@@ -97,3 +100,6 @@ Documenta el diseño y los esquemas de su base de datos, relaciones, etc.
 ## Licensing
 
 Indica qué es la licencia y cómo encontrar la versión de texto de la licencia.
+
+# Now what?
+Haz un listado de cosas que faltan por hacer o que te gustaría hacer en el proyecto, pero que por el momento no puedes hacer. (Te falta conocimiento o simplemente tienes que hacer otra cosa más urgente). Agradecerás leerlo cuando vuelvas a retomarlo.
