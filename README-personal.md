@@ -12,7 +12,6 @@
 </p>
 
 <h3>
-  ★ Front Badges
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -49,12 +48,12 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<a href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
+<a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
 
 ---
 
 ### Github Stats
-(Thank you <a href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
+(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
 <table>
   <tr>
