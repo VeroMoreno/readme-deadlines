@@ -72,8 +72,8 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### Repositorios TOP
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/url-shortener)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/mealplan-front)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=url-shortener&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/url-shortener)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=mealplan-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/mealplan-front)
 
 
 ### 🎧 Music | Spotify Playing
