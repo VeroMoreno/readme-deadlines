@@ -104,6 +104,9 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
   <a href="https://veritechie.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
+  <a href="https://veritechie.devto.dev/">
+    <img src="https://img.shields.io/badge/devto-2962FF?style=for-the-badge&logo=devto&logoColor=white">
+  </a>
   <a href="mailto:veronica.moreno.wrok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
