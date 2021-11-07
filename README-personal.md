@@ -70,6 +70,11 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 5. 🗣 Commented on [#3](https://github.com/veroMoreno/styler/issues/3) in [veroMoreno/styler](https://github.com/veroMoreno/styler)
 <!--END_SECTION:activity-->
 
+### Repositorios TOP
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/gradientking)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/loficlub)
+
 
 ### 🎧 Music | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
