@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/26632876?v=4" width="30%" alt="Logo of the project" align="right">
 
-# �🚀 Nombre-del-proyecto
+# 🚀 Nombre-del-proyecto
 > Información adicional o eslogan
 
 Una breve descripción de tu proyecto, ¿Para qué se va a utilizar?
