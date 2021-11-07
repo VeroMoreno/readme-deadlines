@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
+<a href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
+
 ---
 
 ### Github Stats
